@@ -1,0 +1,91 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Activity",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "activityStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "drivers",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "free",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "online",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "vehicle_type_id",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "earth_distance",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "drivers",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "vehicle_type_id",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "earth_distance",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "newTaxiOrders",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "free",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "online",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "vehicle_type_id",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "earth_distance",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "newTaxiOrders",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "vehicle_type_id",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "earth_distance",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

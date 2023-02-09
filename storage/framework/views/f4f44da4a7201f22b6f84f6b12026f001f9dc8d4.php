@@ -1,0 +1,3 @@
+<svg class="w-5 h-5 mr-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4"/>
+</svg><?php /**PATH /home/spotd2d/domains/client.spotd2d.com/public_html/storage/framework/views/41fed2f80cb74bc9afea3da1192d90cba6ec7777.blade.php ENDPATH**/ ?>

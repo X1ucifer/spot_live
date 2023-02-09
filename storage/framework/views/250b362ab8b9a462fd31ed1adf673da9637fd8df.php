@@ -1,0 +1,3 @@
+<svg class="w-4 h-4 ml-2 rounded-full cursor-pointer feather feather-x hover:text-red-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+</svg><?php /**PATH /home/spotd2d/domains/client.spotd2d.com/public_html/storage/framework/views/97d0c3c82015310dc9641d98ad9571aecc474ad4.blade.php ENDPATH**/ ?>

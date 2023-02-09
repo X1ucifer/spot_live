@@ -1,0 +1,2 @@
+<p class="font-medium"><?php echo e($text ?? ''); ?><?php echo e($slot ?? ''); ?></p>
+<?php /**PATH /home/spotd2d/domains/client.spotd2d.com/public_html/resources/views/components/details/p.blade.php ENDPATH**/ ?>

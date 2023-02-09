@@ -1,0 +1,1 @@
+<span class="mt-1 text-xs text-red-700"><?php echo e($message); ?></span><?php /**PATH F:\Freelancing\spot_live\resources\views/components/input-error.blade.php ENDPATH**/ ?>

@@ -1,0 +1,4 @@
+.env
+.remote-sync.json
+.vscode/ftp-sync.json
+.vscode/launch.json

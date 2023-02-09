@@ -1,0 +1,1 @@
+<hr class="border-t border-gray-50" /><?php /**PATH F:\Freelancing\spot_live\resources\views/components/hr.blade.php ENDPATH**/ ?>

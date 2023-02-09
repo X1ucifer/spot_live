@@ -1,0 +1,1 @@
+<?php echo e(currencyFormat($model->total, $currency = ($model->taxi_order != null && $model->taxi_order->currency != null ) ? $model->taxi_order->currency->symbol : setting('currency', '$'))); ?><?php /**PATH /home/spotd2d/domains/client.spotd2d.com/public_html/resources/views/components/table/order-total.blade.php ENDPATH**/ ?>

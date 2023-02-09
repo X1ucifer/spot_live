@@ -1,0 +1,1 @@
+<hr class="border-t border-gray-50" /><?php /**PATH /home/spotd2d/domains/client.spotd2d.com/public_html/resources/views/components/hr.blade.php ENDPATH**/ ?>

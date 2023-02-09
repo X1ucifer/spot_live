@@ -1,0 +1,1 @@
+<?php /**PATH F:\Freelancing\spot_live\resources\views/vendor/livewire-tables/stubs/modals.blade.php ENDPATH**/ ?>

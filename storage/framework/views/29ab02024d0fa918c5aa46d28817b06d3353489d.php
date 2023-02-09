@@ -1,0 +1,1 @@
+<?php /**PATH /home/spotd2d/domains/client.spotd2d.com/public_html/resources/views/vendor/livewire-tables/stubs/modals.blade.php ENDPATH**/ ?>
